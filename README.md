@@ -1,11 +1,11 @@
-# 本网站源于Hugo-Webstack网址导航网站构建模板[点击直达](https://github.com/oulh/nav)
+# 本网站源于[Hugo-Webstack网址导航网站构建模板](https://github.com/oulh/nav)
 
 
 完整的hugo目录结构，可以直接拷贝使用，不需要本地生成。结合自动构建，可在线编辑，自动发布；编辑自己的网站内容并Commit，每次提交修改都会触发自动构建。
 
 详细内容请看主题 [hugo-webstack](https://github.com/oulh/hugo-webstack)
 
-访问链接：[链接直达](https://worhllo.github.io/favorites))
+访问链接：[链接直达](https://worhllo.github.io/favorites)
 
 ## 可自定义编辑的内容
 
@@ -80,3 +80,4 @@ title和url是必要属性，logo、description、qrcode可留空或删除。
       
 ---
 ```
+[skip ci]
