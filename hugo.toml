@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://worhllo.github.io/favorites"
 languageCode = "zh-CN"
 title = "网址导航"
 theme = "hugo-webstack"
