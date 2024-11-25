@@ -1,4 +1,4 @@
-# 本网站源于Hugo-Webstack网址导航网站构建模板[点击直达](https://github.com/oulh/nav))
+# 本网站源于Hugo-Webstack网址导航网站构建模板[点击直达](https://github.com/oulh/nav)
 
 
 完整的hugo目录结构，可以直接拷贝使用，不需要本地生成。结合自动构建，可在线编辑，自动发布；编辑自己的网站内容并Commit，每次提交修改都会触发自动构建。
