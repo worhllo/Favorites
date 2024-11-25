@@ -22,10 +22,6 @@ data:
 - taxonomy: 社区咨询
   icon: fa-regular fa-newspaper
   links: 
-    - title: 雷锋网
-      logo: ../images/logos/leiphone.png
-      url: https://www.leiphone.com/
-      description: 人工智能和智能硬件领域的互联网科技媒体
     - title: 36kr
       logo: ../images/logos/36kr.png
       url: https://36kr.com/
