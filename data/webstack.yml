@@ -13,6 +13,25 @@
       description: 在线二维码生成工具
     - title: 在线文件传输
       url: https://musetransfer.com/
+    - title: 获取目标网站favicon.ico
+      url: https://api.uomg.com/doc-get.favicon.html
+      logo: https://api.uomg.com/api/get.favicon?url=https://api.uomg.com/doc-get.favicon.html
+      description: 查询目标网站favicon.ico
+
+    - title: AIchatOS2
+      url: https://chat18.aichatosrg.com/#/chat/1732595272200
+      logo: https://api.uomg.com/api/get.favicon?url=https://chat18.aichatosrg.com/#/chat/1732595272200
+      description: chatgpt
+      
+    - title: freechatgpt
+      url: https://free.xyhelper.cn/list
+      logo: https://api.uomg.com/api/get.favicon?url=https://free.xyhelper.cn/list
+      description: chatgpt
+      
+    - title: 前台解析中心 | 网盘解析-公益站点
+      url: https://gy.os3.cn/user
+      logo: https://api.uomg.com/api/get.favicon?url=https://gy.os3.cn/
+      description: 网盘解析
 
 - taxonomy: 云服务平台
   icon: fa-cloud
