@@ -18,6 +18,10 @@
    - “关于”页面：/content/about.md
    
    - 网站logo：/static/images/logo.png
+
+     - 方案1：[api.uomg.com](https://api.uomg.com/doc-get.favicon.html)
+
+     - 方案2：[favicon.im](https://favicon.im/)
    
    - 导航网址默认logo：/static/images/favicon.png
    
@@ -80,10 +84,8 @@ title和url是必要属性，logo、description、qrcode可留空或删除。
       
 ---
 ```
-## 获取网站图标
-   - 方案1：[api.uomg.com](https://api.uomg.com/doc-get.favicon.html)
 
-   - 方案2：[favicon.im](https://favicon.im/)
+
 
    
 
