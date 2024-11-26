@@ -1,6 +1,7 @@
 ---
 - taxonomy: 常用工具
   icon: fa-star
+  list: 
       - term: 影视
         links: 
             - title: 草料二维码
