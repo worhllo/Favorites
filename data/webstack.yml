@@ -34,9 +34,9 @@
 - term: AI工具
 links: 
   - title: 法行宝-您的免费AI律师
-  url: https://ailegal.baidu.com/?accessToken=eyJhbGciOiJIUzI1NiIsImtpZCI6ImRlZmF1bHQiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3MjgyNzkzMTEsImZpbGVHVUlEIjoiNXJrOUs4eW1RV0l3T1AzeCIsImlhdCI6MTcyODI3OTAxMSwiaXNzIjoidXBsb2FkZXJfYWNjZXNzX3Jlc291cmNlIiwidXNlcklkIjotODkyNTI4NjY0MX0.3HLS8blNyvRd3oc9gKgTPyRNU-XeSdlPNXWh81G3IaE
-  logo: 
-  description: 
+    url: https://ailegal.baidu.com/?accessToken=eyJhbGciOiJIUzI1NiIsImtpZCI6ImRlZmF1bHQiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3MjgyNzkzMTEsImZpbGVHVUlEIjoiNXJrOUs4eW1RV0l3T1AzeCIsImlhdCI6MTcyODI3OTAxMSwiaXNzIjoidXBsb2FkZXJfYWNjZXNzX3Jlc291cmNlIiwidXNlcklkIjotODkyNTI4NjY0MX0.3HLS8blNyvRd3oc9gKgTPyRNU-XeSdlPNXWh81G3IaE
+    logo: 
+    description: 
 
     - title: AIchatOS2
       url: https://chat18.aichatosrg.com/#/chat/1732595272200
@@ -51,7 +51,7 @@ links:
 
 
  - term: 文字编辑工具
-links: 
+ links: 
  - title: Smallpdf
   url: https://smallpdf.com/
   logo: 
@@ -123,9 +123,9 @@ links:
   description: 
   
   - title: md5在线解密破解,md5解密加密
-  url: https://www.cmd5.com/
-  logo: 
-  description: 
+    url: https://www.cmd5.com/
+    logo: 
+    description: 
   
 - title: 在线文字识别转换（通用OCR）
   url: https://ocr.wdku.net/
@@ -204,12 +204,7 @@ links:
   description: 
 
 
-
-
-
-
-
- - term: 文件传输工具
+- term: 文件传输工具
 links: 
 - title: snapdrop
   url: https://snapdrop.net/
@@ -220,11 +215,11 @@ links:
 
 
  - term: 图片编辑工具
-  links: 
+ links: 
  - title: 删除图像中的背景 – remove.bg
-  url: https://www.remove.bg/zh
-  logo: 
-  description: 
+    url: https://www.remove.bg/zh
+    logo: 
+    description: 
 
 - title: 在线图片压缩_视频转GIF软件_GIF裁剪合成工具-图贴士
   url: https://www.tutieshi.com/
@@ -232,9 +227,9 @@ links:
   description: 
   
  - title: 将头像变成漫画风格 1
-  url: https://toonify.photos/
-  logo: 
-  description: 
+    url: https://toonify.photos/
+    logo: 
+    description: 
   
 - title: 将头像变成漫画风格 2
   url: https://toonme.com/
@@ -281,8 +276,8 @@ links:
   logo: 
   description: 
 
- - term: 工具箱
-   links: 
+- term: 工具箱
+links: 
 - title: 在线工具 - 强大的多功能在线工具库
   url: http://tools.bugscaner.com/
   logo: 
@@ -380,12 +375,15 @@ links:
       links:
         - title: 果核音乐搜搜
           url: https://music.ghxi.com/
+          
         - title: 音乐磁场
           url: https://www.hifini.com/
+          
          - title: 音乐播放器
           url: https://peal.cc/player
           logo: 
           description: 
+          
         - title: MyFreeMP3
           url: http://tool.liumingye.cn/music/?page=searchPage#/
           logo: 
@@ -393,14 +391,14 @@ links:
           
   - term: 视频
   - title: M3U8播放器
-  url: https://m3u8play.com/
-  logo: 
-  description: 
+    url: https://m3u8play.com/
+    logo: 
+    description: 
   
   - title: m3u8 视频在线提取工具
-  url: http://blog.luckly-mjw.cn/tool-show/m3u8-downloader/index.html
-  logo: 
-  description:
+    url: http://blog.luckly-mjw.cn/tool-show/m3u8-downloader/index.html
+    logo: 
+    description:
   
 - title: 一站式视频剪辑平台
   url: https://zh.pickfrom.net/
