@@ -82,9 +82,62 @@ title和url是必要属性，logo、description、qrcode可留空或删除。
       url: https://qssily.com/
       
 ---
+
 ```
+## 附：链接一键生成模板
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>链接模板一键生成</title>
+</head>
+<body>
+  <h1>链接模板一键生成</h1>
+  <button onclick="generateText()">生成文本</button>
+  <pre id="output"></pre>
+  <button onclick="copyText()">复制文本</button>
 
+  <script>
+    function generateText() {
+      // 获取用户输入
+      const title = prompt("请输入 title:");
+      const url = prompt("请输入 url:");
+      const logo = prompt("请输入 logo:");
+      const description = prompt("请输入 description:");
 
+      // 格式化生成的文本
+      const result = `- title: ${title}\n  url: ${url}\n  logo: ${logo}\n  description: ${description}`;
+
+      // 显示生成的文本
+      document.getElementById('output').textContent = result;
+    }
+
+    function copyText() {
+      // 获取输出区域的文本
+      const outputText = document.getElementById('output').textContent;
+
+      // 创建一个临时的文本输入框来执行复制操作
+      const textArea = document.createElement('textarea');
+      textArea.value = outputText;  // 将生成的文本赋值给文本框
+      document.body.appendChild(textArea);
+
+      // 选中文本并执行复制
+      textArea.select();
+      document.execCommand('copy');
+
+      // 删除临时文本框
+      document.body.removeChild(textArea);
+
+      // 提示用户已复制
+      alert("文本已复制到剪贴板！");
+    }
+  </script>
+</body>
+</html>
+
+```
 
    
 
