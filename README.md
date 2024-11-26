@@ -91,15 +91,19 @@ title和url是必要属性，logo、description、qrcode可留空或删除。
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>链接模板一键生成</title>
+  <title>链接一键生成</title>
 </head>
 <body>
-  <h1>链接模板一键生成</h1>
+  <h1>链接一键生成</h1>
   <button onclick="generateText()">生成文本</button>
+  <button onclick="clearText()">清除文本</button>
   <pre id="output"></pre>
   <button onclick="copyText()">复制文本</button>
 
   <script>
+    // 用来保存之前的文本
+    let accumulatedText = '';
+
     function generateText() {
       // 获取用户输入
       const title = prompt("请输入 title:");
@@ -108,10 +112,13 @@ title和url是必要属性，logo、description、qrcode可留空或删除。
       const description = prompt("请输入 description:");
 
       // 格式化生成的文本
-      const result = `- title: ${title}\n  url: ${url}\n  logo: ${logo}\n  description: ${description}`;
+      const result = `- title: ${title}\n  url: ${url}\n  logo: ${logo}\n  description: ${description}\n`;
 
-      // 显示生成的文本
-      document.getElementById('output').textContent = result;
+      // 将新生成的文本追加到之前的文本后面
+      accumulatedText += result;
+
+      // 更新页面上的显示区域
+      document.getElementById('output').textContent = accumulatedText;
     }
 
     function copyText() {
@@ -133,9 +140,16 @@ title和url是必要属性，logo、description、qrcode可留空或删除。
       // 提示用户已复制
       alert("文本已复制到剪贴板！");
     }
+
+    function clearText() {
+      // 清除 accumulatedText 和页面上显示的内容
+      accumulatedText = '';
+      document.getElementById('output').textContent = accumulatedText;
+    }
   </script>
 </body>
 </html>
+
 
 ```
 
