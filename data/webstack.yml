@@ -1,34 +1,54 @@
 ---
 - taxonomy: 常用工具
   icon: fa-star
-  links: 
-    - title: 草料二维码
-      qrcode: images/qrcodes/cli.png
-      url: https://cli.im/url
-      description: 在线二维码生成工具
-      
-    - title: 在线文件传输
-      url: https://musetransfer.com/
-      
-    - title: 获取目标网站favicon.ico
-      url: https://api.uomg.com/doc-get.favicon.html
-      logo: https://api.uomg.com/api/get.favicon?url=https://api.uomg.com/doc-get.favicon.html
-      description: 查询目标网站favicon.ico
-      
-    - title: 前台解析中心 | 网盘解析-公益站点
-      url: https://gy.os3.cn/user
-      logo: https://api.uomg.com/api/get.favicon?url=https://gy.os3.cn/
-      description: 网盘解析
-      
-- title: 在线病毒扫描 - 下载吧
-  url: https://www.xiazaiba.com/virusscan.html
-  logo: 
-  description: 
-  
-- title: 万能命令
-  url: https://wannengrun.com/zh/
-  logo: 
-  description:
+      - term: 影视
+        links: 
+            - title: 草料二维码
+              qrcode: images/qrcodes/cli.png
+              url: https://cli.im/url
+              description: 在线二维码生成工具
+              
+            - title: 在线文件传输
+              url: https://musetransfer.com/
+              
+            - title: 获取目标网站favicon.ico
+              url: https://api.uomg.com/doc-get.favicon.html
+              logo: https://api.uomg.com/api/get.favicon?url=https://api.uomg.com/doc-get.favicon.html
+              description: 查询目标网站favicon.ico
+              
+            - title: 前台解析中心 | 网盘解析-公益站点
+              url: https://gy.os3.cn/user
+              logo: https://api.uomg.com/api/get.favicon?url=https://gy.os3.cn/
+              description: 网盘解析
+              
+            - title: 在线病毒扫描 - 下载吧
+              url: https://www.xiazaiba.com/virusscan.html
+              logo: 
+              description: 
+              
+            - title: 万能命令
+              url: https://wannengrun.com/zh/
+              logo: 
+              description:
+
+
+      - term: AI工具
+        links: 
+              - title: 法行宝-您的免费AI律师
+              url: https://ailegal.baidu.com/?accessToken=eyJhbGciOiJIUzI1NiIsImtpZCI6ImRlZmF1bHQiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3MjgyNzkzMTEsImZpbGVHVUlEIjoiNXJrOUs4eW1RV0l3T1AzeCIsImlhdCI6MTcyODI3OTAxMSwiaXNzIjoidXBsb2FkZXJfYWNjZXNzX3Jlc291cmNlIiwidXNlcklkIjotODkyNTI4NjY0MX0.3HLS8blNyvRd3oc9gKgTPyRNU-XeSdlPNXWh81G3IaE
+              logo: 
+              description: 
+          
+              - title: AIchatOS2
+                url: https://chat18.aichatosrg.com/#/chat/1732595272200
+                logo: https://api.uomg.com/api/get.favicon?url=https://chat18.aichatosrg.com/#/chat/1732595272200
+                description: chatgpt
+                
+              - title: freechatgpt
+                url: https://free.xyhelper.cn/list
+                logo: https://api.uomg.com/api/get.favicon?url=https://free.xyhelper.cn/list
+                description: chatgpt
+     
       
           
 - taxonomy: 影视影音
