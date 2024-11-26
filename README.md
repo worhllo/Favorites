@@ -80,4 +80,10 @@ title和url是必要属性，logo、description、qrcode可留空或删除。
       
 ---
 ```
+## 获取网站图标
+   - 方案1：[api.uomg.com](https://api.uomg.com/doc-get.favicon.html)
+
+   - 方案2：[favicon.im](https://favicon.im/)
+
+   
 
