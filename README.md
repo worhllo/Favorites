@@ -5,7 +5,6 @@
 
 详细内容请看主题 [hugo-webstack](https://github.com/oulh/hugo-webstack)
 
-访问链接：[链接直达](https://worhllo.github.io/favorites)
 
 ## 可自定义编辑的内容
 
