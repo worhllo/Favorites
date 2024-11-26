@@ -2,7 +2,7 @@
 - taxonomy: 常用工具
   icon: fa-star
   list: 
-      - term: 影视
+      - term: 其他
         links: 
             - title: 草料二维码
               qrcode: images/qrcodes/cli.png
@@ -42,6 +42,159 @@
                 url: https://free.xyhelper.cn/list
                 logo: https://api.uomg.com/api/get.favicon?url=https://free.xyhelper.cn/list
                 description: chatgpt
+
+      - term: 文字编辑工具
+        links: 
+             - title: Smallpdf
+              url: https://smallpdf.com/
+              logo: 
+              description: 
+              
+            - title: Free Online OCR
+              url: https://www.onlineocr.net/
+              logo: 
+              description: 
+              
+            - title: PDF to Word Converter
+              url: https://www.gonitro.com/pdf-to-word
+              logo: 
+              description: 
+              
+            - title: PDF转Word
+              url: https://online.rightpdf.com/cn/home
+              logo: 
+              description: 
+              
+            - title: iLovePDF
+              url: https://www.ilovepdf.com/
+              logo: 
+              description: 
+              
+            - title: PDFdo.com
+              url: http://www.pdfdo.com/doc-to-pdf.aspx
+              logo: 
+              description: 
+              
+            - title: PDFtoWord|CloudConvert
+              url: https://cloudconvert.com/pdf-to-doc
+              logo: 
+              description: 
+              
+            - title: 迅捷PDF转换器
+              url: https://app.xunjiepdf.com/
+              logo: 
+              description: 
+              
+            - title: 轻闪PDF
+              url: https://lightpdf.cn/
+              logo: 
+              description: 
+              
+            - title: PDF2GO
+              url: https://www.pdf2go.com/zh
+              logo: 
+              description: 
+              
+            - title: PDF.io
+              url: https://pdf.io/tw/
+              logo: 
+              description: 
+              
+            - title: PDF转DOC – 在线转换PDF文档至Word格式
+              url: https://pdf2doc.com/zh/
+              logo: 
+              description: 
+              
+            - title: Online PDF Converter 
+              url: https://docs.zone/
+              logo: 
+              description: 
+              
+            - title: PDF转Word在线免费|PDF转换器 - 超级PDF在线免费转换
+              url: https://xpdf.cn/
+              logo: 
+              description: 
+              
+              - title: md5在线解密破解,md5解密加密
+              url: https://www.cmd5.com/
+              logo: 
+              description: 
+              
+            - title: 在线文字识别转换（通用OCR）
+              url: https://ocr.wdku.net/
+              logo: 
+              description: 
+  
+            - title: 网络剪贴板
+              url: https://netcut.cn/
+              logo: images/logos/xxx.png
+              qrcode: https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://netcut.cn/
+              description: 在线跨屏剪切文字
+      
+            - title: 词林在线词典
+              url: https://www.cilin.org/
+              logo: 
+              description: 
+            
+            - title: 繁体字转换
+              url: https://www.aies.cn/
+              logo: 
+              description: 
+              
+            - title: TXT文本在线处理工具
+              url: https://www.txttool.com/#gotop
+              logo: 
+              description: 
+            
+            - title: 从文本生成流程图
+              url: https://flowchart.fun/
+              logo: 
+              description: 
+            
+            - title: 文本比较四象限工具
+              url: https://fnboards.netlify.app/
+              logo: 
+              description: 
+              
+            - title: 上下标号码生成工具
+              url: https://www.xsbbs.org/tool/tel/
+              logo: 
+              description: 
+            
+            - title: 文字彩色渐变特效
+              url: http://patorjk.com/text-color-fader/
+              logo: 
+              description: 
+            
+            - title: Text-Image
+              url: https://www.text-image.com/convert/ascii.html
+              logo: 
+              description: 
+            
+            - title: IMG2TXT
+              url: https://www.degraeve.com/img2txt.php
+              logo: 
+              description: 
+            
+            - title: TAAG
+              url: http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20
+              logo: 
+              description: 
+            
+            - title: Kammerl
+              url: http://www.kammerl.de/ascii/AsciiSignature.php
+              logo: 
+              description: 
+            
+            - title: ASCIIFlow（流程图）
+              url: https://asciiflow.com/#/
+              logo: 
+              description: 
+            
+            - title: 字体涂鸦绘图 | Texter
+              url: https://tholman.com/texter/
+              logo: 
+              description: 
      
       
           
