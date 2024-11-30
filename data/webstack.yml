@@ -1,33 +1,7 @@
 ---
-- taxonomy: 常用工具
+- taxonomy: AI工具
   icon: fa-star
   links: 
-              - title: 草料二维码
-                qrcode: images/qrcodes/cli.png
-                url: https://cli.im/url
-                description: 在线二维码生成工具
-              - title: 在线文件传输
-                url: https://musetransfer.com/
-              - title: 获取目标网站favicon.ico
-                url: https://api.uomg.com/doc-get.favicon.html
-                logo: https://api.uomg.com/api/get.favicon?url=https://api.uomg.com/doc-get.favicon.html
-                description: 查询目标网站favicon.ico
-              - title: 前台解析中心 | 网盘解析-公益站点
-                url: https://gy.os3.cn/user
-                logo: https://api.uomg.com/api/get.favicon?url=https://gy.os3.cn/
-                description: 网盘解析
-              - title: 在线病毒扫描 - 下载吧
-                url: https://www.xiazaiba.com/virusscan.html
-                logo: 
-                description: 
-              - title: 万能命令
-                url: https://wannengrun.com/zh/
-                logo: 
-                description:
-              - title: 法行宝-您的免费AI律师
-                url: https://ailegal.baidu.com/?accessToken=eyJhbGciOiJIUzI1NiIsImtpZCI6ImRlZmF1bHQiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3MjgyNzkzMTEsImZpbGVHVUlEIjoiNXJrOUs4eW1RV0l3T1AzeCIsImlhdCI6MTcyODI3OTAxMSwiaXNzIjoidXBsb2FkZXJfYWNjZXNzX3Jlc291cmNlIiwidXNlcklkIjotODkyNTI4NjY0MX0.3HLS8blNyvRd3oc9gKgTPyRNU-XeSdlPNXWh81G3IaE
-                logo: 
-                description: 
               - title: AIchatOS2
                 url: https://chat18.aichatosrg.com/#/chat/1732595272200
                 logo: https://api.uomg.com/api/get.favicon?url=https://chat18.aichatosrg.com/#/chat/1732595272200
@@ -38,69 +12,206 @@
                 description: chatgpt
 
                 
+- taxonomy: 工具箱
+  icon: fa-star
+  links: 
+          - title: MikuTools
+          url: https://tools.miku.ac/
+          logo: 
+          description: 
+        - title: 蛙蛙工具 - 便捷的在线工具集合网站
+          url: https://www.iamwawa.cn/
+          logo: 
+          description: 
+        - title: 在线工具 - 程序员的工具箱
+          url: https://tool.lu/
+          logo: 
+          description: 
+        - title: 在线工具_第一家纯在线免安装的工具网站【免费使用】- 工具123
+          url: http://www.gjw123.com/
+          logo: 
+          description: 
+        - title: 一个工具箱 - 好用的在线工具都在这里！
+          url: http://www.atoolbox.net/
+          logo: 
+          description: 
+        - title: MikuTools - 一个轻量的工具集合
+          url: https://tools.miku.ac/
+          logo: 
+          description: 
+                
 - taxonomy: 文档编辑
   icon: fa-star
   links: 
-            - title: Smallpdf
-              url: https://smallpdf.com/
-              logo: 
-              description: 
-            - title: Free Online OCR
-              url: https://www.onlineocr.net/
-              logo: 
-              description: 
-            - title: PDF to Word Converter
-              url: https://www.gonitro.com/pdf-to-word
-              logo: 
-              description: 
-            - title: PDF转Word
-              url: https://online.rightpdf.com/cn/home
-              logo: 
-              description: 
-            - title: iLovePDF
-              url: https://www.ilovepdf.com/
-              logo: 
-              description: 
-            - title: PDFdo.com
-              url: http://www.pdfdo.com/doc-to-pdf.aspx
-              logo: 
-              description: 
-            - title: PDFtoWord|CloudConvert
-              url: https://cloudconvert.com/pdf-to-doc
-              logo: 
-              description: 
-            - title: 迅捷PDF转换器
-              url: https://app.xunjiepdf.com/
-              logo: 
-              description:  
-            - title: 轻闪PDF
-              url: https://lightpdf.cn/
-              logo: 
-              description:  
-            - title: PDF2GO
-              url: https://www.pdf2go.com/zh
-              logo: 
-              description:  
-            - title: PDF.io
-              url: https://pdf.io/tw/
-              logo: 
-              description:   
-            - title: PDF转DOC – 在线转换PDF文档至Word格式
-              url: https://pdf2doc.com/zh/
-              logo: 
-              description:  
-            - title: Online PDF Converter 
-              url: https://docs.zone/
-              logo: 
-              description: 
-            - title: PDF转Word在线免费|PDF转换器 - 超级PDF在线免费转换
-              url: https://xpdf.cn/
-              logo: 
-              description:  
-            - title: md5在线解密破解,md5解密加密
-              url: https://www.cmd5.com/
-              logo: 
-              description:  
+                   - title: Free online file converter
+          url: https://www.online-convert.com/
+          logo: 
+          description: 
+        - title: PDF工具
+          url: https://pdf.to/
+          logo: 
+          description: 
+        - title: WORD工具
+          url: https://word.to/
+          logo: 
+          description: 
+        - title: iLovePDF 
+          url: https://www.ilovepdf.com/zh-cn
+          logo: 
+          description: 
+        - title: smallpdf
+          url: https://smallpdf.com/cn/pdf-tools
+          logo: 
+          description: 
+        - title: LightPDF - 免费在线编辑、转换PDF文件
+          url: https://lightpdf.com/zh/
+          logo: 
+          description: 
+        - title: pdfburger
+          url: https://pdfburger.com/combine-to-pdf
+          logo: 
+          description: 
+        - title: pdfcandy
+          url: https://pdfcandy.com/
+          logo: 
+          description: 
+        - title: doc转pdf
+          url: https://doctopdf.com/zh/
+          logo: 
+          description: 
+        - title: pdf2go
+          url: https://www.pdf2go.com/
+          logo: 
+          description: 
+        - title: Word转PDF
+          url: http://www.pdfdo.com/doc-to-pdf.aspx
+          logo: 
+          description: 
+        - title: addpdf
+          url: https://www.addpdf.cn/office-to-pdf
+          logo: 
+          description: 
+        - title: 提取PDF和图像转换为Word
+          url: https://www.onlineocr.net/
+          logo: 
+          description: 
+        - title: 纬来PDF转换器
+          url: https://www.pdfpai.com/
+          logo: 
+          description: 
+        - title:  万兴HiPDF
+          url: https://www.hipdf.cn/
+          logo: 
+          description: 
+        - title: PDF24 Tools
+          url: https://tools.pdf24.org/en/
+          logo: 
+          description: 
+        - title: 迅捷PDF转换器
+          url: https://app.xunjiepdf.com/word2pdf/
+          logo: 
+          description:  
+        - title: cleverpdf
+          url: https://www.cleverpdf.com/cn/pdf-to-png
+          logo: 
+          description: 
+        - title: aconvert
+          url: https://www.aconvert.com/
+          logo: 
+          description: 
+        - title: PDF 转 Markdown
+          url: https://products.aspose.app/words/zh/conversion/pdf-to-md
+          logo: 
+          description: 
+        - title: Convertio
+          url: https://convertio.co/zh/
+          logo: 
+          description: 
+        - title: 123APPS
+          url: https://123apps.com/cn/
+          logo: 
+          description: 
+        - title: CloudConvert
+          url: https://cloudconvert.com/
+          logo: 
+          description: 
+        - title: Office Converter
+          url: https://cn.office-converter.com/
+          logo: 
+          description: 
+        - title: Free-Converter
+          url: https://cn.free-converter.com/
+          logo: 
+          description: 
+        - title: pdf.io
+          url: https://pdf.io/tw/
+          logo: 
+          description: 
+        - title: docsmall
+          url: https://docsmall.com/
+          logo: 
+          description: 
+        - title: PDF24 Tools
+          url: https://tools.pdf24.org/zh/
+          logo: 
+          description: 
+        - title: 福昕PDF编辑
+          url: https://online.foxitsoftware.cn/
+          logo: 
+          description: 
+        - title: 超级PDF
+          url: https://xpdf.net/
+          logo: 
+          description: 
+        - title: 白描网页版
+          url: https://web.baimiaoapp.com/
+          logo: 
+          description: 
+        - title: FreeOnlineOCR
+          url: https://www.onlineocr.net/
+          logo: 
+          description: 
+        - title: ocrspace
+          url: https://ocr.space/
+          logo: 
+          description: 
+        - title: Cmd Markdown
+          url: https://www.zybuluo.com/mdeditor
+          logo: 
+          description: 
+        - title: 小书匠
+          url: http://markdown.xiaoshujiang.com/
+          logo: 
+          description: 
+        - title: StackEdit
+          url: https://stackedit.io/app#
+          logo: 
+          description: 
+        - title: Html转换为MarkDown工具
+          url: https://www.bejson.com/convert/html2markdown/
+          logo: 
+          description: 
+        - title: Markdown 表格生成器 1
+          url: https://tableconvert.com/
+          logo: 
+          description: 
+        - title: Markdown转HTML
+          url: https://www.zai17.com/md2html/
+          logo: 
+          description: 
+        - title: 在线 MD | Telegraph 
+          url: https://telegra.ph/
+          logo: 
+          description: 
+        - title: All to All
+          url: https://www.alltoall.net/
+          logo: 
+          description: 
+
+
+- taxonomy: 文字编辑
+  icon: fa-star
+  links: 
             - title: 在线文字识别转换（通用OCR）
               url: https://ocr.wdku.net/
               logo: 
@@ -736,6 +847,270 @@
           logo: 
           description: 
 
+- taxonomy: 图片编辑
+  icon: fa-star
+  links: 
+        - title: 消除背景
+          url: https://www.remove.bg/zh/upload
+          logo: 
+          description: 
+        - title: 在线抠图软件_ps
+          url: https://www.gaoding.com/koutu
+          logo: 
+          description: 
+        - title: Image Cyborg
+          url: https://imagecyborg.com/
+          logo: 
+          description: 
+        - title: 以图搜图Yandex
+          url: https://yandex.com/images/
+          logo: 
+          description: 
+        - title: 图片压缩Squoosh
+          url: https://squoosh.app/
+          logo: 
+          description:
+        - title: PHOTOMOSH
+          url: https://photomosh.com/
+          logo: 
+          description:        
+        - title: Remove Video Background
+          url: https://www.unscreen.com/
+          logo: 
+          description: 
+        - title: iloveimg
+          url: https://www.iloveimg.com/
+          logo: 
+          description:
+        - title: 图片压缩
+          url: https://www.yasuotu.com/
+          logo: 
+          description: 
+        - title: jpeg编辑
+          url: https://jpeg.to/
+          logo: 
+          description: 
+        - title: png编辑
+          url: https://png.to/
+          logo: 
+          description: 
+        - title: iLoveIMG _ 图像文件在线编辑工具
+          url: https://www.iloveimg.com/zh-cn
+          logo: 
+          description: 
+        - title: 去除背景
+          url: https://www.fococlipping.com/
+          logo: 
+          description: 
+        - title: 图片编辑器
+          url: https://photokit.com/?lang=zh
+          logo: 
+          description: 
+        - title: 提取图片
+          url: https://extract.pics/
+          logo: 
+          description: 
+        - title: 洋芋田图像工具箱
+          url: https://www.potatofield.cn/imagetoolkit
+          logo: 
+          description: 
+        - title: 迪士尼化
+          url: https://toonme.com/
+          logo: 
+          description: 
+        - title: 搞定含噪和质量下降的图像 - Pix Fix
+          url: https://zh.pixfix.com/
+          logo: 
+          description: 
+        - title: Bigjpg - AI人工智能圖片無損放大 
+          url: https://bigjpg.com/
+          logo: 
+          description: 
+        - title: 视频剪辑-ps抠图
+          url: https://www.picup.shop/
+          logo: 
+          description: 
+        - title: 截图保存
+          url: http://weibodang.cn/screencapture/
+          logo: 
+          description:  
+        - title: 图片编辑
+          url: https://tiomg.org/
+          logo: 
+          description: 
+        - title: Bigjpg - AI人工智能图片无损放大
+          url: https://bigjpg.com/
+          logo: 
+          description: 
+        - title: 压缩图 -在线图片压缩工具
+          url: https://www.yasuotu.com/
+          logo: 
+          description: 
+        - title: png2jpeg
+          url: https://tinyjpg.com/
+          logo: 
+          description: 
+        - title: ScreenToGif
+          url: https://www.screentogif.com/
+          logo: 
+          description: 
+        - title: iLoveIMG | 图像文件在线编辑工具
+          url: https://www.iloveimg.com/zh-cn
+          logo: 
+          description: 
+        - title: 图贴士
+          url: https://www.tutieshi.com/
+          logo: 
+          description: 
+        - title: 抠抠抠-免费抠图工具
+          url: https://koukoukou.cn/?accessToken=eyJhbGciOiJIUzI1NiIsImtpZCI6ImRlZmF1bHQiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3MjgyNzkzMTEsImZpbGVHVUlEIjoiNXJrOUs4eW1RV0l3T1AzeCIsImlhdCI6MTcyODI3OTAxMSwiaXNzIjoidXBsb2FkZXJfYWNjZXNzX3Jlc291cmNlIiwidXNlcklkIjotODkyNTI4NjY0MX0.3HLS8blNyvRd3oc9gKgTPyRNU-XeSdlPNXWh81G3IaE
+          logo: 
+          description: 
+        - title: 格式转化 | Jpeg.io 
+          url: https://www.jpeg.io/
+          logo: 
+          description: 
+        - title: 图片转矢量 | VectorMagic
+          url: https://zh.vectormagic.com/
+          logo: 
+          description: 
+        - title: TinyPNG
+          url: https://tinypng.com/
+          logo: 
+          description: 
+        - title: 智图
+          url: https://zhitu.isux.us/
+          logo: 
+          description: 
+        - title: Recompressor
+          url: https://zh.recompressor.com/
+          logo: 
+          description: 
+        - title: Picdiet
+          url: https://www.picdiet.com/zh-cn
+          logo: 
+          description: 
+        - title: img.top
+          url: https://img.top/
+          logo: 
+          description: 
+        - title: Squoosh
+          url: https://squoosh.app/
+          logo: 
+          description: 
+        - title: Clipping Magic
+          url: https://zh.clippingmagic.com/
+          logo: 
+          description: 
+        - title: remove.bg
+          url: https://www.remove.bg/zh
+          logo: 
+          description: 
+        - title: 起兮抠图
+          url: http://matting.deeplor.com/#/
+          logo: 
+          description:  
+        - title: 皮卡智能
+          url: https://www.picup.shop/
+          logo: 
+          description: 
+        - title: AutoDraw
+          url: https://www.autodraw.com/
+          logo: 
+          description: 
+        - title: 画布
+          url: https://canvas.apps.chrome/
+          logo: 
+          description: 
+        - title: Excalidraw
+          url: https://excalidraw.com/
+          logo: 
+          description: 
+        - title: 白板
+          url: https://witeboard.com/
+          logo: 
+          description: 
+        - title: 在线证件照换底色
+          url: https://www.bgconverter.com/
+          logo: 
+          description: 
+        - title: 在线雪花生成器
+          url: https://www.misha.studio/snowflaker/
+          logo: 
+          description: 
+        - title: 泥石流海报生成器
+          url: https://graph.readhub.cn/
+          logo: 
+          description: 
+        - title: 占位图片 | Lorem Picsum
+          url: https://picsum.photos/
+          logo: 
+          description: 
+        - title: 对称绘图 | Weavesilk
+          url: http://weavesilk.com/
+          logo: 
+          description: 
+        - title: 百变万花尺 | Inspirograph
+          url: https://nathanfriend.io/inspiral-web/
+          logo: 
+          description: 
+        - title: 友情PS社区 | Zhopped
+          url: http://zhopped.com/
+          logo: 
+          description: 
+        - title: 图片趣味效果 | PhotoFunia
+          url: https://photofunia.com/cn/
+          logo: 
+          description:  
+        - title: 趣味图标效果 | Cool Text
+          url: https://zh-cn.cooltext.com/
+          logo: 
+          description: 
+        - title: 照片故障风 | PHOTOMOSH
+          url: https://photomosh.com/
+          logo: 
+          description: 
+        - title: 蒸汽机
+          url: https://lab.magiconch.com/vaporwave/
+          logo: 
+          description: 
+        - title: P5 JS 图片特效
+          url: https://wangyasai.github.io/designtools.html
+          logo: 
+          description: 
+        - title: 标题海报生成
+          url: https://www.logoly.pro/#/
+          logo: 
+          description: 
+        - title: 百度识图
+          url: https://image.baidu.com/?fr=shitu
+          logo: 
+          description: 
+        - title: 搜狗识图
+          url: https://pic.sogou.com/
+          logo: 
+          description: 
+        - title: 360识图
+          url: https://image.so.com/
+          logo: 
+          description: 
+        - title: 谷歌识图
+          url: https://www.google.com.hk/imghp?hl=en&tab=wi
+          logo: 
+          description: 
+        - title: Yandex Images
+          url: https://yandex.com/images/
+          logo: 
+          description: 
+        - title: 免费的在线图片与 PDF 处理工具
+          url: https://docsmall.com/
+          logo: 
+          description: 
+        - title:  图形方格纸  MyGraphPaper
+          url: https://www.mygraphpaper.com/index.php?lang=zh-hans
+          logo: 
+          description: 
+
 
           
 - taxonomy: 音乐世界
@@ -751,6 +1126,403 @@
           description: 
         - title: 白噪声
           url: https://29a.ch/noise-generator/
+          logo: 
+          description: 
+
+
+- taxonomy: 脚本分享
+  icon: fa-star
+  links: 
+        - title: Greasy Fork
+          url: https://greasyfork.org/zh-CN
+          logo: 
+          description: 
+        - title: 油猴中文网
+          url: https://bbs.tampermonkey.net.cn/
+          logo: 
+          description: 
+        - title: Greasy Fork
+          url: https://greasyfork.org/zh-CN/
+          logo: 
+          description: 
+        - title: 用户脚本
+          url: https://greasyfork.org/zh-CN/scripts
+          logo: 
+          description: 
+        - title: 油猴脚本网站用户脚本
+          url: https://sleazyfork.org/zh-CN/scripts
+          logo: 
+          description: 
+        - title: Chrome插件
+          url: http://chromecj.com/
+          logo: 
+          description: 
+        - title: 百度网盘直链下载助手 | 百度网盘直链下载助手
+          url: https://www.baiduyun.wiki/zh-cn/
+          logo: 
+          description: 
+        - title: Chrome插件
+          url: http://www.cnplugins.com/
+          logo: 
+          description: 
+        - title: 扩展程序
+          url: https://chrome.google.com/webstore/category/extensions?utm_campaign=en&utm_source=en-et-na-us-oc-webstrext&utm_medium=et
+          logo: 
+          description: 
+        - title: 插件下载Crx4Chrome - Download CRX for Chrome Apps &amp; Extensions
+          url: https://www.crx4chrome.com/
+          logo: 
+          description: 
+        - title: Experience the App Store and iTunes Anywhere | fnd
+          url: https://fnd.io/#/
+          logo: 
+          description: 
+        - title: 常用Crx离线安装包下载
+          url: http://yurl.sinaapp.com/crx2.php
+          logo: 
+          description: 
+        - title: VS插件 Extensions for Visual Studio family of products | Visual Studio Marketplace
+          url: https://marketplace.visualstudio.com/
+          logo: 
+          description: 
+        - title: 极简插件_Chrome扩展插件商店_优质crx应用
+          url: https://chrome.zzzmh.cn/index#index
+          logo: 
+          description: 
+        - title: crxdl
+          url: https://crxdl.com/
+          logo: 
+          description: 
+        - title: 谷歌插件下载导出Start | Chrome Extension Downloader
+          url: https://chrome-extension-downloader.com/
+          logo: 
+          description: 
+        - title: Chrome插件(谷歌浏览器插件) - 提供Chrome商店中优秀的Chrome插件推荐与下载服务
+          url: https://huajiakeji.com/
+          logo: 
+          description: 
+        - title: chajian5
+          url: https://www.chajian5.com/
+          logo: 
+          description: 
+        - title: 极简插件_Chrome扩展插件商店_优质crx应用
+          url: https://chrome.zzzmh.cn/
+          logo: 
+          description: 
+        - title: 谷歌浏览器Chrome插件/谷歌访问助手 - ChromeFK插件网
+          url: https://www.chromefk.com/
+          logo: 
+          description: 
+        - title: 极简插件_Chrome扩展插件商店_优质crx应用
+          url: https://chrome.zzzmh.cn/index
+          logo: 
+          description: 
+        - title: 【3年老脚本 继续稳定】 全网音乐一键免费下载 一键搜索 在线试听 增加手机端app和[无损音乐的下载]2020.11.6更新 全新服务器单独运行
+          url: https://greasyfork.org/zh-CN/scripts/37058-3%E5%B9%B4%E8%80%81%E8%84%9A%E6%9C%AC-%E7%BB%A7%E7%BB%AD%E7%A8%B3%E5%AE%9A-%E5%85%A8%E7%BD%91%E9%9F%B3%E4%B9%90%E4%B8%80%E9%94%AE%E5%85%8D%E8%B4%B9%E4%B8%8B%E8%BD%BD-%E4%B8%80%E9%94%AE%E6%90%9C%E7%B4%A2-%E5%9C%A8%E7%BA%BF%E8%AF%95%E5%90%AC-%E5%A2%9E%E5%8A%A0%E6%89%8B%E6%9C%BA%E7%AB%AFapp%E5%92%8C-%E6%97%A0%E6%8D%9F%E9%9F%B3%E4%B9%90%E7%9A%84%E4%B8%8B%E8%BD%BD-2020-11-6%E6%9B%B4%E6%96%B0-%E5%85%A8%E6%96%B0%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%8D%95%E7%8B%AC%E8%BF%90%E8%A1%8C
+          logo: 
+          description: 
+        - title: Chrome WebStore
+          url: https://chrome.google.com/webstore/category/extensions
+          logo: 
+          description: 
+        - title: Microsoft Edge Store
+          url: https://microsoftedge.microsoft.com/addons/Microsoft-Edge-Extensions-Home
+          logo: 
+          description: 
+        - title: Firefox Add-ons
+          url: https://addons.mozilla.org/zh-CN/firefox/
+          logo: 
+          description: 
+        - title: Greasy Fork
+          url: https://greasyfork.org/zh-CN
+          logo: 
+          description: 
+        - title: Sleazy Fork
+          url: https://sleazyfork.org/zh-CN/scripts
+          logo: 
+          description: 
+        - title: 插件合集
+          url: https://www.runningcheese.com/extensions
+          logo: 
+          description:  
+        - title: crx搜搜
+          url: https://www.crxsoso.com/
+          logo: 
+          description: 
+        - title: Crx Downloader
+          url: https://chrome-extension-downloader.com/
+          logo: 
+          description: 
+        - title: 极简插件
+          url: https://chrome.zzzmh.cn/
+          logo: 
+          description: 
+        - title: Crx4Chrome
+          url: https://www.crx4chrome.com/
+          logo: 
+          description: 
+        - title: 极简插件
+          url: https://chrome.zzzmh.cn/#/index
+          logo: 
+          description: 
+        - title: bilibili哔哩哔哩B站下载助手插件
+          url: https://csser.top/
+          logo: 
+          description: 
+        - title: 自动跳转某些网站不希望用户直达的外链
+          url: https://greasyfork.org/zh-CN/scripts/412612-open-the-f-king-url-right-now
+          logo: 
+          description: 
+        - title: 跳过客户端,直接下载文件
+          url: https://greasyfork.org/zh-CN/scripts/423898-%E5%A4%A9%E7%BF%BC%E4%BA%91%E7%9B%98%E8%B7%B3%E8%BF%87%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%B8%8B%E8%BD%BD%E6%96%87%E4%BB%B6
+          logo: 
+          description: 
+        - title: 插件推荐
+          url: https://www.cnplugins.com/zhuanti/
+          logo: 
+          description: 
+        - title: 下载知乎视频
+          url: https://greasyfork.org/zh-CN/scripts/39206-%E4%B8%8B%E8%BD%BD%E7%9F%A5%E4%B9%8E%E8%A7%86%E9%A2%91
+          logo: 
+          description: 
+        - title: 视频广告跳过
+          url: https://greasyfork.org/zh-CN/scripts/372673-%E8%AE%A1%E6%97%B6%E5%99%A8%E6%8E%8C%E6%8E%A7%E8%80%85-%E8%A7%86%E9%A2%91%E5%B9%BF%E5%91%8A%E8%B7%B3%E8%BF%87-%E8%A7%86%E9%A2%91%E5%B9%BF%E5%91%8A%E5%8A%A0%E9%80%9F%E5%99%A8
+          logo: 
+          description: 
+
+- taxonomy: 二维码＆短链
+  icon: fa-star
+  links: 
+        - title: 短链生成
+          url: http://mrw.so/
+          logo: 
+          description: 
+        - title: 草料二维码
+          url: https://cli.im/mob
+          logo: 
+          description: 
+        - title: 短链接工具 
+          url: https://www.toer2.com/DuanUrl.html
+          logo: 
+          description: 
+        - title: 短链接工具
+          url: https://sina.lt/index.php
+          logo: 
+          description: 
+        - title: Bitly
+          url: https://bitly.com/
+          logo: 
+          description: 
+        - title: TinyURL 
+          url: https://tinyurl.com/app
+          logo: 
+          description: 
+        - title: shortlink
+          url: https://u.nu/
+          logo: 
+          description: 
+        - title: 批量短网址
+          url: http://suo.im/
+          logo: 
+          description: 
+        - title: QRBTF
+          url: https://qrbtf.com/
+          logo: 
+          description: 
+        - title: 二维彩虹
+          url: https://www.erweicaihong.cn/
+          logo: 
+          description: 
+        - title: QRCode Monkey
+          url: https://www.qrcode-monkey.com/
+          logo: 
+          description: 
+        - title: 二维码梦工厂
+          url: https://www.qrdream.com/
+          logo: 
+          description: 
+        - title: 免费在线二维码生成器
+          url: https://cn.online-qrcode-generator.com/
+          logo: 
+          description: 
+        - title: 在线条码生成器
+          url: https://cn.online-barcode.com/
+          logo: 
+          description: 
+
+- taxonomy: 前端工具
+  icon: fa-star
+  links: 
+        - title: 正则表达式 | Regex Tester
+          url: https://www.regexpal.com/
+          logo: 
+          description: 
+        - title: 脚本之家在线工具
+          url: http://tools.jb51.net/regex/create_reg
+          logo: 
+          description: 
+        - title: 脚本之家
+          url: https://www.jb51.net/tools/regexsc.htm
+          logo: 
+          description: 
+        - title: JS美化 | 程序员工具箱
+          url: https://tool.lu/js/
+          logo: 
+          description: 
+        - title: JS美化 | JSBeautifier
+          url: https://beautifier.io/
+          logo: 
+          description: 
+        - title: JS语法检测 | JSLint
+          url: http://www.jslint.com/
+          logo: 
+          description: 
+        - title: URL转码工具
+          url: https://tool.oschina.net/encode?type=4
+          logo: 
+          description: 
+        - title: HTML-UBB代码转换
+          url: http://tool.chinaz.com/Tools/Html_Ubb.aspx
+          logo: 
+          description: 
+        - title: 图片转DataURI
+          url: https://www.baidufe.com/fehelper/image-base64/index.html
+          logo: 
+          description: 
+        - title: CSS优化工具
+          url: https://tool.lu/css/
+          logo: 
+          description: 
+        - title: CSS3样式生成器
+          url: http://css3generator.com/
+          logo: 
+          description: 
+        - title: CSS样式生成
+          url: https://www.cssbuttongenerator.com/
+          logo: 
+          description:  
+        - title: css获取
+          url: https://jigsaw.w3.org/css-validator/
+          logo: 
+          description: 
+        - title: 代码转换成漂亮图片 2
+          url: https://carbon.now.sh/
+          logo: 
+          description: 
+        - title: W3在线手册
+          url: https://www.w3school.com.cn/index.html
+          logo: 
+          description: 
+
+- taxonomy: 邮箱接码
+  icon: fa-star
+  links: 
+        - title: 10分钟邮箱
+          url: https://10minutemail.com/
+          logo: 
+          description: 
+        - title: YOPmail
+          url: http://www.yopmail.com/zh/
+          logo: 
+          description: 
+        - title: Guerrilla 邮箱 - 一次性临时邮箱
+          url: https://www.guerrillamail.com/zh
+          logo: 
+          description: 
+        - title: MailDrop
+          url: https://maildrop.cc/
+          logo: 
+          description: 
+        - title: 临时邮箱
+          url: https://www.linshiyouxiang.net/
+          logo: 
+          description: 
+        - title: 在线接收短信验证码
+          url: https://yunduanxin.net/Countries/
+          logo: 
+          description: 
+        - title: 短信云接收
+          url: https://www.zusms.com/
+          logo: 
+          description: 
+        - title: 免费中国手机号码在线接收短信
+          url: https://mianfeijiema.com/China-Phone-Number/
+          logo: 
+          description: 
+        - title: 接码号
+          url: https://jiemahao.com/
+          logo: 
+          description: 
+        - title: 云接码
+          url: https://yunjiema.net/
+          logo: 
+          description: 
+        - title: 接收短信
+          url: https://zh.mytrashmobile.com/
+          logo: 
+          description: 
+        - title: Receive FREE SMS online
+          url: http://receivefreesms.com/
+          logo: 
+          description: 
+        - title: 虚拟信息生成
+          url: https://www.dizhishengcheng.com/
+          logo: 
+          description: 
+        - title: 云短信 - 短信接收
+          url: https://www.materialtools.com/article/Instructions_for_testing_anti-reptiles_recently_global_v2?return_url=%2F%3Fpage%3D1
+          logo: 
+          description: 
+        - title: 云短信 - 短信接收
+          url: https://www.materialtools.com/?page=1
+          logo: 
+          description: 
+        - title: 在线接收短信验证码
+          url: https://yunduanxin.net/
+          logo: 
+          description: 
+        - title: 邮箱批量退订 | Unroll.Me
+          url: https://unroll.me/
+          logo: 
+          description: 
+        - title: 简单易用的电子邮件追踪服务
+          url: http://www.ifread.com/
+          logo: 
+          description: 
+        - title: 邮件追踪工具 | Mailtrack
+          url: https://mailtrack.io/en/
+          logo: 
+          description: 
+        - title: 邮件头分析 | MxToolbox
+          url: https://mxtoolbox.com/EmailHeaders.aspx
+          logo: 
+          description: 
+        - title: 邮箱有效性验证 | Verify Email
+          url: https://verify-email.org/
+          logo: 
+          description: 
+        - title: 24小时邮箱
+          url: http://24mail.chacuo.net/
+          logo: 
+          description: 
+        - title: 临时电子邮件服务
+          url: https://www.mohmal.com/zh
+          logo: 
+          description: 
+        - title: Maildrop
+          url: https://maildrop.cc/
+          logo: 
+          description: 
+        - title: 临时邮箱
+          url: https://linshiyouxiang.net/
+          logo: 
+          description: 
+        - title: 10分钟邮箱
+          url: https://10minutemail.net/?lang=zh-cn
+          logo: 
+          description: 
+        - title: NowMyMail
+          url: https://www.nowmymail.com/
           logo: 
           description: 
 
