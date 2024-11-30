@@ -162,7 +162,155 @@
               url: https://tholman.com/texter/
               logo: 
               description: 
-     
+
+              
+- taxonomy: 科研
+  icon: fa-star
+  links: 
+        - title: SCI-Hub论文下载可用网址链接（实时更新） - YoviSun工具集
+          url: https://tool.yovisun.com/scihub/
+          logo: 
+          description: 
+        - title: 谷歌学术镜像_Google学术搜索导航
+          url: http://ac.scmor.com/
+          logo: 
+          description: 
+        - title: Google学术搜索镜像_sci-hub网址_大木虫学术导航
+          url: http://www.4243.net/
+          logo: 
+          description: 
+        - title: 学术期刊_电子期刊_开源期刊投稿_汉斯出版社(Hans Publishers)
+          url: https://www.hanspub.org/
+          logo: 
+          description: 
+        - title: sci-hub：一个神奇的免费下载文献的网站
+          url: https://www.sci-hub.tw/
+          logo: 
+          description: 
+        - title: 世界上最大的开放获取学术论文平台CORE – Aggregating the world’s open access research papers
+          url: https://core.ac.uk/
+          logo: 
+          description: 
+        - title: CNKI翻译助手-辅助英语在线翻译系统(文献翻译|专业词汇翻译|学术翻译|专业英语翻译|术语翻译)
+          url: http://dict.cnki.net/
+          logo: 
+          description: 
+        - title: 学术搜索 - 站在巨人的肩膀上 - Google 学术
+          url: https://scholar.chongbuluo.com/
+          logo: 
+          description: 
+        - title: 科研废物导航 - 科研，从这里开始！
+          url: https://yanweb.top/
+          logo: 
+          description: 
+        - title: Sci论文期刊检索|文献检索求助互助|文献分享 - Sci-Hub|Scidown
+          url: https://www.scidown.cn/
+          logo: 
+          description: 
+        - title: 科研小白的主页 - 科研通
+          url: https://www.ablesci.com/my/home
+          logo: 
+          description: 
+        - title: X-MOL学术平台
+          url: https://www.x-mol.com/
+          logo: 
+          description: 
+        - title: 论文工具
+          url: https://laorange.github.io/paper-assistant/
+          logo: 
+          description: 
+        - title: PubMed
+          url: https://pubmed.ncbi.nlm.nih.gov/
+          logo: 
+          description: 
+        - title: Scidown网盘后台管理系统
+          url: https://www.scidown.cn/wangpan/index.php
+          logo: 
+          description: 
+        - title: 文献检索-SciHub
+          url: https://www.scihub.net.cn/sci-hub/
+          logo: 
+          description: 
+        - title: Zotero 插件商店 | Zotero 中文社区
+          url: https://zotero-chinese.com/plugins/#zotero=zotero6
+          logo: 
+          description: 
+        - title: 中国知网
+          url: http://cnki.net/
+          logo: 
+          description: 
+        - title: 万方数据知识服务平台
+          url: http://www.wanfangdata.com.cn/index.html
+          logo: 
+          description: 
+        - title: Open Access Library (OALib)
+          url: http://www.oalib.com/
+          logo: 
+          description: 
+        - title: 全国图书馆参考咨询联盟
+          url: http://www.ucdrs.superlib.net/
+          logo: 
+          description: 
+        - title: 国家哲学社会科学文献中心
+          url: http://www.ncpssd.org/
+          logo: 
+          description: 
+        - title: sci-hub
+          url: https://sci-hub.tw/
+          logo: 
+          description: 
+        - title: 90图书馆
+          url: http://www.90tsg.com/
+          logo: 
+          description: 
+        - title: 谷歌镜像站
+          url: https://www.enow.com/
+          logo: 
+          description: 
+        - title: 论文知识 - 百度学术
+          url: https://xueshu.baidu.com/usercenter/papercheck/news?kind=3&site=wangpanpc
+          logo: 
+          description: 
+        - title: Sci-Hub文献检索 _ 科学是照亮世界的火把
+          url: https://sci-hub.org.cn/
+          logo: 
+          description: 
+        - title: 熊猫学术-Google scholar
+          url: https://sc.panda321.com/
+          logo: 
+          description: 
+        - title: 学术资源搜索
+          url: https://scholar.lanfanshu.cn/
+          logo: 
+          description: 
+        - title: 谷粉学术
+          url: https://xs.dailyheadlines.cc/
+          logo: 
+          description: 
+        - title: Google 学术搜索
+          url: https://scholar.google.com/
+          logo: 
+          description: 
+        - title: Essays, Research Papers, Term Papers _ Internet Public Library
+          url: https://www.ipl.org/
+          logo: 
+          description: 
+        - title: ScienceDirect.com _ Science, health and medical journals, full text articles and books.
+          url: https://www.sciencedirect.com/
+          logo: 
+          description: 
+        - title: Google学术搜索镜像_sci-hub网址_大木虫学术导航
+          url: http://www.4243.net/
+          logo: 
+          description: 
+        - title: 科研学术
+          url: https://www.scihub.net.cn/
+          logo: 
+          description: 
+        - title: 试剂耗材采购管理平台
+          url: http://labchem.fafu.edu.cn/#/main/module-ums/applyPiManage
+          logo: 
+          description:      
       
           
 - taxonomy: 影视影音
