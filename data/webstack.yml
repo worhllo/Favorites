@@ -40,9 +40,11 @@
           logo: 
           description: 
                 
-- taxonomy: 文档编辑
+- taxonomy: 文档（字）编辑
   icon: fa-star
-  links: 
+  list: 
+    - term: PDF转换
+      links:
         - title: Free online file converter
           url: https://www.online-convert.com/
           logo: 
@@ -147,10 +149,6 @@
           url: https://pdf.io/tw/
           logo: 
           description: 
-        - title: docsmall
-          url: https://docsmall.com/
-          logo: 
-          description: 
         - title: PDF24 Tools
           url: https://tools.pdf24.org/zh/
           logo: 
@@ -163,6 +161,13 @@
           url: https://xpdf.net/
           logo: 
           description: 
+        - title: All to All
+          url: https://www.alltoall.net/
+          logo: 
+          description: 
+          
+    - term: 文字OCR
+      links:   
         - title: 白描网页版
           url: https://web.baimiaoapp.com/
           logo: 
@@ -175,6 +180,13 @@
           url: https://ocr.space/
           logo: 
           description: 
+        - title: 在线文字识别转换（通用OCR）
+          url: https://ocr.wdku.net/
+          logo: 
+          description: 
+
+    - term: MD转换
+      links:  
         - title: Cmd Markdown
           url: https://www.zybuluo.com/mdeditor
           logo: 
@@ -203,76 +215,66 @@
           url: https://telegra.ph/
           logo: 
           description: 
-        - title: All to All
-          url: https://www.alltoall.net/
+
+    - term: 字体编辑
+      links:  
+        - title: 网络剪贴板
+          url: https://netcut.cn/
+          logo: images/logos/xxx.png
+          qrcode: https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://netcut.cn/
+          description: 在线跨屏剪切文字
+        - title: 词林在线词典
+          url: https://www.cilin.org/
           logo: 
           description: 
-
-
-- taxonomy: 文字编辑
-  icon: fa-star
-  links: 
-            - title: 在线文字识别转换（通用OCR）
-              url: https://ocr.wdku.net/
-              logo: 
-              description: 
-            - title: 网络剪贴板
-              url: https://netcut.cn/
-              logo: images/logos/xxx.png
-              qrcode: https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://netcut.cn/
-              description: 在线跨屏剪切文字
-            - title: 词林在线词典
-              url: https://www.cilin.org/
-              logo: 
-              description: 
-            - title: 繁体字转换
-              url: https://www.aies.cn/
-              logo: 
-              description:   
-            - title: TXT文本在线处理工具
-              url: https://www.txttool.com/#gotop
-              logo: 
-              description: 
-            - title: 从文本生成流程图
-              url: https://flowchart.fun/
-              logo: 
-              description: 
-            - title: 文本比较四象限工具
-              url: https://fnboards.netlify.app/
-              logo: 
-              description: 
-            - title: 上下标号码生成工具
-              url: https://www.xsbbs.org/tool/tel/
-              logo: 
-              description: 
-            - title: 文字彩色渐变特效
-              url: http://patorjk.com/text-color-fader/
-              logo: 
-              description: 
-            - title: Text-Image
-              url: https://www.text-image.com/convert/ascii.html
-              logo: 
-              description: 
-            - title: IMG2TXT
-              url: https://www.degraeve.com/img2txt.php
-              logo: 
-              description: 
-            - title: TAAG
-              url: http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20
-              logo: 
-              description: 
-            - title: Kammerl
-              url: http://www.kammerl.de/ascii/AsciiSignature.php
-              logo: 
-              description: 
-            - title: ASCIIFlow（流程图）
-              url: https://asciiflow.com/#/
-              logo: 
-              description: 
-            - title: 字体涂鸦绘图 | Texter
-              url: https://tholman.com/texter/
-              logo: 
-              description: 
+        - title: 繁体字转换
+          url: https://www.aies.cn/
+          logo: 
+          description:   
+        - title: TXT文本在线处理工具
+          url: https://www.txttool.com/#gotop
+          logo: 
+          description: 
+        - title: 从文本生成流程图
+          url: https://flowchart.fun/
+          logo: 
+          description: 
+        - title: 文本比较四象限工具
+          url: https://fnboards.netlify.app/
+          logo: 
+          description: 
+        - title: 上下标号码生成工具
+          url: https://www.xsbbs.org/tool/tel/
+          logo: 
+          description: 
+        - title: 文字彩色渐变特效
+          url: http://patorjk.com/text-color-fader/
+          logo: 
+          description: 
+        - title: Text-Image
+          url: https://www.text-image.com/convert/ascii.html
+          logo: 
+          description: 
+        - title: IMG2TXT
+          url: https://www.degraeve.com/img2txt.php
+          logo: 
+          description: 
+        - title: TAAG
+          url: http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20
+          logo: 
+          description: 
+        - title: Kammerl
+          url: http://www.kammerl.de/ascii/AsciiSignature.php
+          logo: 
+          description: 
+        - title: ASCIIFlow（流程图）
+          url: https://asciiflow.com/#/
+          logo: 
+          description: 
+        - title: 字体涂鸦绘图 | Texter
+          url: https://tholman.com/texter/
+          logo: 
+          description: 
 
               
 - taxonomy: 科研废物
