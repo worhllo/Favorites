@@ -1,7 +1,9 @@
 ---
-- taxonomy: AI工具
+- taxonomy: 常用工具
   icon: fa-star
-  links: 
+  list: 
+    - term: AI大模型
+      links: 
               - title: AIchatOS2
                 url: https://chat18.aichatosrg.com/#/chat/1732595272200
                 logo: https://api.uomg.com/api/get.favicon?url=https://chat18.aichatosrg.com/#/chat/1732595272200
@@ -12,33 +14,32 @@
                 description: chatgpt
 
                 
-- taxonomy: 工具箱
-  icon: fa-star
-  links: 
-        - title: MikuTools
-          url: https://tools.miku.ac/
-          logo: 
-          description: 
-        - title: 蛙蛙工具 - 便捷的在线工具集合网站
-          url: https://www.iamwawa.cn/
-          logo: 
-          description: 
-        - title: 在线工具 - 程序员的工具箱
-          url: https://tool.lu/
-          logo: 
-          description: 
-        - title: 在线工具_第一家纯在线免安装的工具网站【免费使用】- 工具123
-          url: http://www.gjw123.com/
-          logo: 
-          description: 
-        - title: 一个工具箱 - 好用的在线工具都在这里！
-          url: http://www.atoolbox.net/
-          logo: 
-          description: 
-        - title: MikuTools - 一个轻量的工具集合
-          url: https://tools.miku.ac/
-          logo: 
-          description: 
+    - term: 工具箱
+      links:  
+              - title: MikuTools
+                url: https://tools.miku.ac/
+                logo: 
+                description: 
+              - title: 蛙蛙工具 - 便捷的在线工具集合网站
+                url: https://www.iamwawa.cn/
+                logo: 
+                description: 
+              - title: 在线工具 - 程序员的工具箱
+                url: https://tool.lu/
+                logo: 
+                description: 
+              - title: 在线工具_第一家纯在线免安装的工具网站【免费使用】- 工具123
+                url: http://www.gjw123.com/
+                logo: 
+                description: 
+              - title: 一个工具箱 - 好用的在线工具都在这里！
+                url: http://www.atoolbox.net/
+                logo: 
+                description: 
+              - title: MikuTools - 一个轻量的工具集合
+                url: https://tools.miku.ac/
+                logo: 
+                description: 
                 
 - taxonomy: 文档（字）编辑
   icon: fa-star
@@ -277,9 +278,11 @@
           description: 
 
               
-- taxonomy: 科研废物
+- taxonomy: 学术与科研
   icon: fa-star
-  links: 
+  list: 
+    - term: 文献检索
+      links: 
         - title: SCI-Hub论文下载可用网址链接（实时更新） - YoviSun工具集
           url: https://tool.yovisun.com/scihub/
           logo: 
@@ -425,11 +428,8 @@
           logo: 
           description:  
 
-
-
-- taxonomy: 图书下载
-  icon: fa-star
-  links: 
+    - term: 图书搜索
+      links: 
         - title: Manybooks
           url: https://manybooks.net/
           logo: 
@@ -567,10 +567,11 @@
           logo: 
           description: 
 
-
-- taxonomy: PPT模板
+- taxonomy: 资源素材
   icon: fa-star
-  links: 
+  list: 
+    - term: PPT模板
+      links: 
         - title: OfficePLUS
           url: http://www.officeplus.cn/Template/Home.shtml
           logo: 
@@ -684,9 +685,8 @@
           logo: 
           description:  
 
-- taxonomy: 特殊符号
-  icon: fa-star
-  links: 
+    - term: 特殊符号
+      links: 
         - title: 特殊符号大全
           url: https://www.dute.org/fuhao
           logo: 
@@ -721,9 +721,11 @@
           description:          
       
           
-- taxonomy: 视频解析
+- taxonomy: 媒体编辑
   icon: fa-star
-  links: 
+  list: 
+    - term: 视频解析
+      links: 
         - title: 抖音快手短视频直播视频去水印解析下载
           url: http://www.dspjx.com/
           logo: 
@@ -809,9 +811,8 @@
           logo: 
           description: 
 
-- taxonomy: 视频编辑
-  icon: fa-star
-  links: 
+    - term: 视频编辑加工
+      links: 
         - title: 移除人声并隔离
           url: https://vocalremover.org/ch/
           logo: 
@@ -849,9 +850,8 @@
           logo: 
           description: 
 
-- taxonomy: 图片编辑
-  icon: fa-star
-  links: 
+    - term: 图片编辑
+      links: 
         - title: 消除背景
           url: https://www.remove.bg/zh/upload
           logo: 
@@ -1115,9 +1115,11 @@
 
 
           
-- taxonomy: 音乐世界
+- taxonomy: 影音视听
   icon: fa-star
-  links: 
+  list: 
+    - term: 音乐
+      links: 
         - title: VIP音乐
           url: https://music.zhuolin.wang/
           logo: 
@@ -1132,9 +1134,11 @@
           description: 
 
 
-- taxonomy: 脚本分享
+- taxonomy: 网络开发工具
   icon: fa-star
-  links: 
+  list: 
+    - term: 插件脚本
+      links: 
         - title: Greasy Fork
           url: https://greasyfork.org/zh-CN
           logo: 
@@ -1292,9 +1296,8 @@
           logo: 
           description: 
 
-- taxonomy: 二维码＆短链
-  icon: fa-star
-  links: 
+    - term: 短链二维码
+      links:  
         - title: 短链生成
           url: http://mrw.so/
           logo: 
@@ -1352,9 +1355,8 @@
           logo: 
           description: 
 
-- taxonomy: 前端工具
-  icon: fa-star
-  links: 
+    - term: 前端工具
+      links:  
         - title: 正则表达式 | Regex Tester
           url: https://www.regexpal.com/
           logo: 
