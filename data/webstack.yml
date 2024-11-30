@@ -164,7 +164,7 @@
               description: 
 
               
-- taxonomy: 科研
+- taxonomy: 科研网站
   icon: fa-star
   links: 
         - title: SCI-Hub论文下载可用网址链接（实时更新） - YoviSun工具集
@@ -310,30 +310,449 @@
         - title: 试剂耗材采购管理平台
           url: http://labchem.fafu.edu.cn/#/main/module-ums/applyPiManage
           logo: 
-          description:      
+          description:  
+
+
+
+- taxonomy: 图书下载
+  icon: fa-star
+  links: 
+        - title: Manybooks
+          url: https://manybooks.net/
+          logo: 
+          description: 
+        - title: Sridb
+          url: https://www.scribd.com/
+          logo: 
+          description: 
+        - title: Project Gutenberg
+          url: https://www.gutenberg.org/
+          logo: 
+          description: 
+        - title: PDF Drive
+          url: https://www.pdfdrive.com/
+          logo: 
+          description: 
+        - title: 超星读书
+          url: http://book.chaoxing.com/
+          logo: 
+          description: 
+        - title: 畅想世界
+          url: https://www.cxstar.com/Home/Default
+          logo: 
+          description: 
+        - title: 科学文库
+          url: https://book.sciencereading.cn/shop/main/Login/shopFrame.do
+          logo: 
+          description: 
+        - title: 广州图书馆
+          url: http://www.gzlib.org.cn/
+          logo: 
+          description: 
+        - title: 静然书屋 1
+          url: https://books.andrewjr.workers.dev/0:/
+          logo: 
+          description: 
+        - title: 天涯客网盘
+          url: https://545c.com/dir/7823036-11625293-090948
+          logo: 
+          description: 
+        - title: 精品电子书
+          url: https://dylanbai8.github.io/ideahub/#X:/%E7%B2%BE%E5%93%81%E8%B5%84%E6%BA%90
+          logo: 
+          description: 
+        - title: 鸠摩搜书
+          url: https://www.jiumodiary.com/
+          logo: 
+          description: 
+        - title: 采书
+          url: http://ebook.name/
+          logo: 
+          description: 
+        - title: 书籍搜索
+          url: https://bks.thefuture.top/
+          logo: 
+          description: 
+        - title: 熊猫搜书
+          url: https://xmsoushu.com/#/
+          logo: 
+          description: 
+        - title: 爱悦读网
+          url: https://www.iyd.wang/
+          logo: 
+          description: 
+        - title: 快吧读书
+          url: http://www.fast8.com/list/6_1.html
+          logo: 
+          description: 
+        - title: 书行天下
+          url: https://www.sxpdf.com/
+          logo: 
+          description: 
+        - title: 知识库
+          url: https://book.zhishikoo.com/
+          logo: 
+          description: 
+        - title: SoBooks @
+          url: https://sobooks.cc/
+          logo: 
+          description: 
+        - title: 学习部门群~本卡风
+          url: https://bkfeng.top/
+          logo: 
+          description: 
+        - title: 【学习资料】主会场
+          url: https://shimo.im/docs/gdHZIwurM9Y9hd7z/read
+          logo: 
+          description: 
+        - title: 时光印记经典珍藏系列
+          url: http://d.sundx.cn/
+          logo: 
+          description: 
+        - title: 个人图书馆
+          url: http://www.360doc.com/index.html
+          logo: 
+          description: 
+        - title: 静思书屋
+          url: https://book.tinynews.org/
+          logo: 
+          description: 
+        - title: 电子书下载
+          url: https://yabook.org/post/5465.html
+          logo: 
+          description: 
+        - title: SoBooks
+          url: https://sobooks.cc/
+          logo: 
+          description: 
+        - title: 多读书
+          url: https://http561856124.wordpress.com/
+          logo: 
+          description: 
+        - title: 书享家
+          url: http://shuxiangjia.cn/?id=103
+          logo: 
+          description: 
+        - title: 恩京的书房
+          url: https://www.enjing.com/
+          logo: 
+          description: 
+        - title: 书行天下
+          url: https://www.sxpdf.com/
+          logo: 
+          description: 
+        - title: 文津
+          url: http://find.nlc.cn/
+          logo: 
+          description:  
+        - title: 全国图书馆参考咨询联盟
+          url: http://www.ucdrs.superlib.net/
+          logo: 
+          description: 
+        - title: 偶书
+          url: https://obook.cc/
+          logo: 
+          description: 
+
+
+- taxonomy: PPT模板
+  icon: fa-star
+  links: 
+        - title: OfficePLUS
+          url: http://www.officeplus.cn/Template/Home.shtml
+          logo: 
+          description: 
+        - title: 优品PPT
+          url: https://www.ypppt.com/
+          logo: 
+          description: 
+        - title: 51PPT
+          url: http://www.51pptmoban.com/ppt/
+          logo: 
+          description: 
+        - title: PPT之家
+          url: https://www.52ppt.com/
+          logo: 
+          description: 
+        - title: 第一PPT
+          url: http://www.1ppt.com/
+          logo: 
+          description: 
+        - title: SlideShare
+          url: https://www.slideshare.net/
+          logo: 
+          description: 
+        - title: PPT宝藏
+          url: http://www.pptbz.com/
+          logo: 
+          description: 
+        - title: 逼格PPT
+          url: http://www.tretars.com/
+          logo: 
+          description: 
+        - title: PPT模板
+          url: http://www.yanj.cn/
+          logo: 
+          description: 
+        - title: 办公资源
+          url: https://www.bangongziyuan.com/
+          logo: 
+          description: 
+        - title: 熊猫PPT
+          url: https://www.tukuppt.com/
+          logo: 
+          description: 
+        - title: PresentationLoad
+          url: https://www.presentationload.com/
+          logo: 
+          description: 
+        - title: 扑奔网PPT
+          url: http://www.pooban.com/ppt/
+          logo: 
+          description: 
+        - title: WORD联盟
+          url: http://www.wordlm.com/
+          logo: 
+          description: 
+        - title: 格子社区
+          url: http://www.ffcell.com/wenku/index.aspx
+          logo: 
+          description: 
+        - title: excelhom
+          url: http://club.excelhome.net/forum.php
+          logo: 
+          description: 
+        - title: iSlide - PPT 插件
+          url: https://www.islide.cc/
+          logo: 
+          description: 
+        - title: 10组常用的PPT动画组合，小白逆袭！ - 知乎
+          url: https://zhuanlan.zhihu.com/p/42835513
+          logo: 
+          description: 
+        - title: 当图网
+          url: https://www.99ppt.com/
+          logo: 
+          description: 
+        - title: PPT汇
+          url: https://www.ppthui.com/
+          logo: 
+          description: 
+        - title: PPT宝藏
+          url: http://www.pptbz.com/
+          logo: 
+          description: 
+        - title: HiPPTER
+          url: http://www.hippter.com/
+          logo: 
+          description: 
+        - title: PPT模板
+          url: http://www.ypppt.com/
+          logo: 
+          description: 
+        - title: 吾道幻灯片
+          url: https://www.woodo.cn/
+          logo: 
+          description: 
+        - title: 汇总免费资源的导航网站
+          url: http://www.pickfree.cn/
+          logo: 
+          description: 
+        - title: PPT超级市场官网
+          url: https://www.pptsupermarket.com/
+          logo: 
+          description: 
+        - title: 逼格PPT 
+          url: http://www.tretars.com/
+          logo: 
+          description: 
+        - title: 方方格子 Excel工具箱
+          url: http://www.ffcell.com/home/ffcell.aspx
+          logo: 
+          description:  
+
+- taxonomy: 特殊符号
+  icon: fa-star
+  links: 
+        - title: 特殊符号大全
+          url: https://www.dute.org/fuhao
+          logo: 
+          description: 
+        - title: 常用 Emoji 表情符号
+          url: https://www.dute.org/emoji
+          logo: 
+          description: 
+        - title: 语言代码表
+          url: http://www.lingoes.cn/zh/translator/langcode.htm
+          logo: 
+          description: 
+        - title: 全球国家/地区代码查询
+          url: https://www.chinassl.net/ssltools/country-code.html
+          logo: 
+          description: 
+        - title: 特殊符号大全
+          url: http://www.fhdq.net/
+          logo: 
+          description: 
+        - title: Emoji Homepage
+          url: http://emojihomepage.com/
+          logo: 
+          description: 
+        - title: 特殊符号生成
+          url: https://www.glyphy.io/
+          logo: 
+          description: 
+        - title: 符号库
+          url: https://www.fuhaoku.net/shuxuefuhao/yuanquan.html
+          logo: 
+          description:          
       
           
-- taxonomy: 影视影音
+- taxonomy: 视频解析
   icon: fa-video-camera
   list: 
-    - term: 影视
-      links:
-        - title: 阿里小站
-          url: https://pan666.cn
-          description: 阿里云盘资源共享站。人人为我，我为人人的共享资源社区
+        - title: 抖音快手短视频直播视频去水印解析下载
+          url: http://www.dspjx.com/
+          logo: 
+          description: 
+        - title: 抖音无水印工具_最新抖音在线无水印解析_ouo工具
+          url: https://ouotool.com/dy
+          logo: 
+          description: 
+        - title: 嗨呀去水印 
+          url: http://douyin.haiya360.com/
+          logo: 
+          description: 
+        - title: 微视短视频解析下载 - 腾讯微视视频保存到本地
+          url: https://weishi.iiilab.com/
+          logo: 
+          description: 
+        - title: 短视频解析-下载去水印X
+          url: https://www.helloty.cn/
+          logo: 
+          description: 
+        - title: 微博、秒拍、小咖秀、晃咖视频解析下载 - 保存视频到电脑、手机
+          url: https://weibo.iiilab.com/
+          logo: 
+          description: 
+        - title: 一键解析 - 专业教程学习博客
+          url: http://www.yijianjiexi.com/
+          logo: 
+          description: 
+        - title: Youtube视频下载 - 免费在线 YouTube 下载器
+          url: https://zh.savefrom.net/7/
+          logo: 
+          description: 
+        - title: cd解析-vip视频解析
+          url: http://www.mmore.xyz/
+          logo: 
+          description: 
+        - title: 短视频去水印解析 - I Am I の 实验室
+          url: https://lab.5ime.cn/video/
+          logo: 
+          description: 
+        - title: 蜜蜂去水印 - 免费去掉各大短视频app水印工具
+          url: https://video.ciding.cc/
+          logo: 
+          description: 
+        - title: 在线视频解析工具
+          url: https://www.parsevideo.com/
+          logo: 
+          description: 
+        - title: 微博秒拍视频解析下载在线工具(影片下载)
+          url: https://weibomiaopai.com/
+          logo: 
+          description: 
+        - title: 唧唧下载
+          url: https://www.jijidown.com/
+          logo: 
+          description: 
+        - title: 贝贝解析
+          url: https://xbeibeix.com/api/bilibili/
+          logo: 
+          description: 
+        - title: 视频解析
+          url: https://www.luochenzhimu.com/videovip
+          logo: 
+          description: 
+        - title: VIP在线视频解析
+          url: http://tool.liumingye.cn/video/
+          logo: 
+          description: 
+        - title: 快手视频解析 1
+          url: https://dy.kukutool.com/
+          logo: 
+          description: 
+        - title: 车马通视频解析
+          url: http://www.chematong.com/
+          logo: 
+          description: 
+        - title: 抖音去水印
+          url: https://www.shulijp.com/tool/jx/index.html
+          logo: 
+          description: 
+        - title: 下载 Youtube / bilibili 视频
+          url: https://v.urlgot.cn/
+          logo: 
+          description: 
 
-    - term: 字幕
-      links:
-        - title: 字幕库
-          url: https://zmk.pw/
-        - title: SubHD
-          url: https://subhd.tv/
-    - term: 音乐
-      links:
-        - title: 果核音乐搜搜
-          url: https://music.ghxi.com/
-        - title: 音乐磁场
-          url: https://www.hifini.com/
+- taxonomy: 视频编辑
+  icon: fa-star
+  links: 
+        - title: 移除人声并隔离
+          url: https://vocalremover.org/ch/
+          logo: 
+          description: 
+        - title: 伴奏提取
+          url: https://www.lalal.ai/
+          logo: 
+          description: 
+        - title: 录音转文字
+          url: http://zhuiyin.sinaapp.com/
+          logo: 
+          description: 
+        - title: 可以高质量分离人声和伴奏！还支持改变音调、改变节奏、修剪歌曲、音频转换等
+          url: https://vocalremover.org/
+          logo: 
+          description: 
+        - title: 字幕转换工具
+          url: https://f-loat.github.io/caption2text/
+          logo: 
+          description: 
+        - title: 音频编辑Vocal Remover and Isolation [AI] | Free Online
+          url: https://vocalremover.org/
+          logo: 
+          description: 
+        - title: 人声分离
+          url: https://www.lalal.ai/
+          logo: 
+          description: 
+        - title: 视频编辑AI工具
+          url: https://dango.ai/
+          logo: 
+          description: 
+        - title: 万能命令
+          url: https://wn.run/cn/
+          logo: 
+          description: 
+
+
+          
+- taxonomy: 音乐世界
+  icon: fa-star
+  links: 
+        - title: VIP音乐
+          url: https://music.zhuolin.wang/
+          logo: 
+          description: 
+        - title: 白噪音
+          url: https://rainbowhunt.com/#slide-1
+          logo: 
+          description: 
+        - title: 白噪声
+          url: https://29a.ch/noise-generator/
+          logo: 
+          description: 
 
 - taxonomy: 友情链接
   icon: fa-link
