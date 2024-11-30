@@ -28,7 +28,7 @@
           description: 
         - title: PDF工具
           url: https://pdf.to/
-          logo: <img src="https://favicon.im/pdf.to" alt="pdf.to favicon" />
+          logo: https://favicon.im/pdf.to
           description: 
         - title: WORD工具
           url: https://word.to/
