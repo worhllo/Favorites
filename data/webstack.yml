@@ -164,7 +164,7 @@
               description: 
 
               
-- taxonomy: 科研网站
+- taxonomy: 科研废物
   icon: fa-star
   links: 
         - title: SCI-Hub论文下载可用网址链接（实时更新） - YoviSun工具集
@@ -609,8 +609,8 @@
       
           
 - taxonomy: 视频解析
-  icon: fa-video-camera
-  list: 
+  icon: fa-star
+  links: 
         - title: 抖音快手短视频直播视频去水印解析下载
           url: http://www.dspjx.com/
           logo: 
