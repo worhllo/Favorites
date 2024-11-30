@@ -32,115 +32,111 @@
           description: 
         - title: WORD工具
           url: https://word.to/
-          logo: 
+          logo: https://favicon.im/word.to
           description: 
         - title: iLovePDF 
           url: https://www.ilovepdf.com/zh-cn
-          logo: 
+          logo: https://favicon.im/www.ilovepdf.com
           description: 
         - title: smallpdf
           url: https://smallpdf.com/cn/pdf-tools
-          logo: 
+          logo: https://favicon.im/smallpdf.com
           description: 
         - title: LightPDF - 免费在线编辑、转换PDF文件
           url: https://lightpdf.com/zh/
-          logo: 
+          logo: https://favicon.im/lightpdf.com
           description: 
         - title: pdfburger
           url: https://pdfburger.com/combine-to-pdf
-          logo: 
+          logo: https://favicon.im/pdfburger.com
           description: 
         - title: pdfcandy
           url: https://pdfcandy.com/
-          logo: 
+          logo: https://favicon.im/pdfcandy.com
           description: 
         - title: doc转pdf
           url: https://doctopdf.com/zh/
-          logo: 
+          logo: https://favicon.im/doctopdf.com
           description: 
         - title: pdf2go
           url: https://www.pdf2go.com/
-          logo: 
+          logo: https://favicon.im/www.pdf2go.com
           description: 
         - title: Word转PDF
           url: http://www.pdfdo.com/doc-to-pdf.aspx
-          logo: 
+          logo: https://api.uomg.com/api/get.favicon?url=http://www.pdfdo.com/doc-to-pdf.aspx
           description: 
         - title: addpdf
           url: https://www.addpdf.cn/office-to-pdf
-          logo: 
+          logo: https://api.uomg.com/api/get.favicon?url=https://www.addpdf.cn/office-to-pdf
           description: 
         - title: 提取PDF和图像转换为Word
           url: https://www.onlineocr.net/
-          logo: 
+          logo: https://favicon.im/www.onlineocr.net
           description: 
         - title: 纬来PDF转换器
           url: https://www.pdfpai.com/
-          logo: 
+          logo: https://favicon.im/www.pdfpai.com
           description: 
         - title:  万兴HiPDF
           url: https://www.hipdf.cn/
-          logo: 
+          logo: https://api.uomg.com/api/get.favicon?url=https://www.hipdf.cn/
           description: 
         - title: PDF24 Tools
           url: https://tools.pdf24.org/en/
-          logo: 
+          logo: https://favicon.im/tools.pdf24.org
           description: 
         - title: 迅捷PDF转换器
           url: https://app.xunjiepdf.com/word2pdf/
-          logo: 
+          logo: https://favicon.im/app.xunjiepdf.com
           description:  
         - title: cleverpdf
           url: https://www.cleverpdf.com/cn/pdf-to-png
-          logo: 
+          logo: https://favicon.im/www.cleverpdf.com
           description: 
         - title: aconvert
           url: https://www.aconvert.com/
-          logo: 
+          logo: https://favicon.im/www.aconvert.com
           description: 
         - title: PDF 转 Markdown
           url: https://products.aspose.app/words/zh/conversion/pdf-to-md
-          logo: 
+          logo: https://favicon.im/products.aspose.app
           description: 
         - title: Convertio
           url: https://convertio.co/zh/
-          logo: 
+          logo: https://favicon.im/convertio.co
           description: 
         - title: 123APPS
           url: https://123apps.com/cn/
-          logo: 
+          logo: https://favicon.im/123apps.com
           description: 
         - title: CloudConvert
           url: https://cloudconvert.com/
-          logo: 
+          logo: https://favicon.im/cloudconvert.com
           description: 
         - title: Office Converter
           url: https://cn.office-converter.com/
-          logo: 
+          logo: https://favicon.im/cn.office-converter.com
           description: 
         - title: Free-Converter
           url: https://cn.free-converter.com/
-          logo: 
+          logo: https://api.uomg.com/api/get.favicon?url=https://cn.free-converter.com/
           description: 
         - title: pdf.io
           url: https://pdf.io/tw/
-          logo: 
-          description: 
-        - title: PDF24 Tools
-          url: https://tools.pdf24.org/zh/
-          logo: 
+          logo: https://favicon.im/pdf.io
           description: 
         - title: 福昕PDF编辑
           url: https://online.foxitsoftware.cn/
-          logo: 
+          logo: https://favicon.im/online.foxitsoftware.cn
           description: 
         - title: 超级PDF
           url: https://xpdf.net/
-          logo: 
+          logo: https://favicon.im/xpdf.net
           description: 
         - title: All to All
           url: https://www.alltoall.net/
-          logo: 
+          logo: https://favicon.im/www.alltoall.net
           description: 
           
     - term: 文字OCR
