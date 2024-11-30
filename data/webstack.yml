@@ -24,11 +24,11 @@
       links:
         - title: Free online file converter
           url: https://www.online-convert.com/
-          logo: 
+          logo: https://api.uomg.com/api/get.favicon?url=https://www.online-convert.com/
           description: 
         - title: PDF工具
           url: https://pdf.to/
-          logo: 
+          logo: <img src="https://favicon.im/pdf.to" alt="pdf.to favicon" />
           description: 
         - title: WORD工具
           url: https://word.to/
