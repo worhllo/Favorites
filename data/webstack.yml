@@ -1,8 +1,8 @@
 ---
-- taxonomy: 常用工具
+- taxonomy: AI大模型
   icon: fa-star
   list: 
-    - term: AI大模型
+    - term: ChatGpt
       links: 
               - title: AIchatOS2
                 url: https://chat18.aichatosrg.com/#/chat/1732595272200
@@ -12,36 +12,12 @@
                 url: https://free.xyhelper.cn/list
                 logo: https://api.uomg.com/api/get.favicon?url=https://free.xyhelper.cn/list
                 description: chatgpt
+    - term: 国内大模型
+      links: 
+                
 
                 
-    - term: 工具箱
-      links:  
-              - title: MikuTools
-                url: https://tools.miku.ac/
-                logo: 
-                description: 
-              - title: 蛙蛙工具 - 便捷的在线工具集合网站
-                url: https://www.iamwawa.cn/
-                logo: 
-                description: 
-              - title: 在线工具 - 程序员的工具箱
-                url: https://tool.lu/
-                logo: 
-                description: 
-              - title: 在线工具_第一家纯在线免安装的工具网站【免费使用】- 工具123
-                url: http://www.gjw123.com/
-                logo: 
-                description: 
-              - title: 一个工具箱 - 好用的在线工具都在这里！
-                url: http://www.atoolbox.net/
-                logo: 
-                description: 
-              - title: MikuTools - 一个轻量的工具集合
-                url: https://tools.miku.ac/
-                logo: 
-                description: 
-                
-- taxonomy: 文档（字）编辑
+- taxonomy: 文档编辑
   icon: fa-star
   list: 
     - term: PDF转换
@@ -1134,7 +1110,7 @@
           description: 
 
 
-- taxonomy: 网络开发工具
+- taxonomy: 工具杂烩
   icon: fa-star
   list: 
     - term: 插件脚本
@@ -1418,9 +1394,35 @@
           logo: 
           description: 
 
-- taxonomy: 邮箱接码
-  icon: fa-star
-  links: 
+    - term: 工具箱
+      links:  
+              - title: MikuTools
+                url: https://tools.miku.ac/
+                logo: 
+                description: 
+              - title: 蛙蛙工具 - 便捷的在线工具集合网站
+                url: https://www.iamwawa.cn/
+                logo: 
+                description: 
+              - title: 在线工具 - 程序员的工具箱
+                url: https://tool.lu/
+                logo: 
+                description: 
+              - title: 在线工具_第一家纯在线免安装的工具网站【免费使用】- 工具123
+                url: http://www.gjw123.com/
+                logo: 
+                description: 
+              - title: 一个工具箱 - 好用的在线工具都在这里！
+                url: http://www.atoolbox.net/
+                logo: 
+                description: 
+              - title: MikuTools - 一个轻量的工具集合
+                url: https://tools.miku.ac/
+                logo: 
+                description: 
+          
+    - term: 邮箱转码
+      links:  
         - title: 10分钟邮箱
           url: https://10minutemail.com/
           logo: 
