@@ -87,68 +87,133 @@ title和url是必要属性，logo、description、qrcode可留空或删除。
 ## 附：链接一键生成模板
 ```
 <!DOCTYPE html>
-<html lang="en">
+<html lang="zh">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>链接一键生成</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>链接批量生成器</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            padding: 20px;
+            background-color: #f4f4f9;
+        }
+        h1 {
+            text-align: center;
+        }
+        .container {
+            width: 80%;
+            margin: 0 auto;
+        }
+        textarea {
+            width: 100%;
+            height: 150px;
+            padding: 10px;
+            margin-bottom: 10px;
+            border-radius: 4px;
+            border: 1px solid #ccc;
+            font-size: 16px;
+            font-family: monospace;
+        }
+        .button-container {
+            margin-top: 10px;
+            text-align: center;
+        }
+        .button {
+            padding: 10px 20px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            margin: 5px;
+        }
+        .button.copy {
+            background-color: #2196F3;
+        }
+        .output {
+            margin-top: 20px;
+            white-space: pre-wrap;
+            background-color: #fff;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            font-family: monospace;
+            word-wrap: break-word;
+        }
+    </style>
 </head>
 <body>
-  <h1>链接一键生成</h1>
-  <button onclick="generateText()">生成文本</button>
-  <button onclick="clearText()">清除文本</button>
-  <pre id="output"></pre>
-  <button onclick="copyText()">复制文本</button>
 
-  <script>
-    // 用来保存之前的文本
-    let accumulatedText = '';
+    <div class="container">
+        <h1>链接批量生成器</h1>
 
-    function generateText() {
-      // 获取用户输入
-      const title = prompt("请输入 title:");
-      const url = prompt("请输入 url:");
-      const logo = prompt("请输入 logo:");
-      const description = prompt("请输入 description:");
+        <!-- 输入多个URL -->
+        <textarea id="urls" placeholder="请输入多个URL，每行一个"></textarea>
 
-      // 格式化生成的文本
-      const result = `- title: ${title}\n  url: ${url}\n  logo: ${logo}\n  description: ${description}\n`;
+        <div class="button-container">
+            <button class="button" onclick="generateContent()">生成内容</button>
+            <button class="button copy" onclick="copyToClipboard()">一键复制</button>
+        </div>
 
-      // 将新生成的文本追加到之前的文本后面
-      accumulatedText += result;
+        <h3>生成结果:</h3>
+        <div id="output" class="output"></div>
+    </div>
 
-      // 更新页面上的显示区域
-      document.getElementById('output').textContent = accumulatedText;
-    }
+    <script>
+        function generateContent() {
+            // 获取用户输入的URL
+            const urls = document.getElementById('urls').value.trim();
+            if (!urls) {
+                alert("请输入至少一个URL！");
+                return;
+            }
 
-    function copyText() {
-      // 获取输出区域的文本
-      const outputText = document.getElementById('output').textContent;
+            // 将用户输入的URL按行拆分
+            const urlArray = urls.split('\n').map(url => url.trim()).filter(url => url);
 
-      // 创建一个临时的文本输入框来执行复制操作
-      const textArea = document.createElement('textarea');
-      textArea.value = outputText;  // 将生成的文本赋值给文本框
-      document.body.appendChild(textArea);
+            // 固定的内容
+            const title = "GitHub 文件加速";
+            const logo = "";
+            const description = "";
 
-      // 选中文本并执行复制
-      textArea.select();
-      document.execCommand('copy');
+            // 生成内容
+            let output = '';
+            urlArray.forEach(url => {
+                output += `- title: ${title}\n  url: ${url}\n  logo: ${logo}\n  description: ${description}\n\n`;
+            });
 
-      // 删除临时文本框
-      document.body.removeChild(textArea);
+            // 显示生成的内容
+            document.getElementById('output').textContent = output.trim();
+        }
 
-      // 提示用户已复制
-      alert("文本已复制到剪贴板！");
-    }
+        function copyToClipboard() {
+            const outputText = document.getElementById('output').textContent;
 
-    function clearText() {
-      // 清除 accumulatedText 和页面上显示的内容
-      accumulatedText = '';
-      document.getElementById('output').textContent = accumulatedText;
-    }
-  </script>
+            if (!outputText) {
+                alert("请先生成内容！");
+                return;
+            }
+
+            // 创建一个隐藏的文本框，将内容复制到这个文本框中
+            const tempTextArea = document.createElement('textarea');
+            tempTextArea.value = outputText;
+            document.body.appendChild(tempTextArea);
+
+            // 选中文本并复制到剪贴板
+            tempTextArea.select();
+            document.execCommand('copy');
+
+            // 删除临时文本框
+            document.body.removeChild(tempTextArea);
+
+            alert("内容已复制到剪贴板！");
+        }
+    </script>
+
 </body>
 </html>
+
 
 
 ```
