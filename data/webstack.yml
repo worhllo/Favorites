@@ -96,40 +96,41 @@
                 url: https://free.xyhelper.cn/list
                 logo: 
                 description: 
+                
     - term: 国内大模型
       links: 
-            - title: 科大讯飞 | 需登录 | 荐
-              url: https://xinghuo.xfyun.cn/
-              logo: 
-              description: 
-            - title: 讯飞代码AI | 需登录 | 荐
-              url: https://iflycode.xfyun.cn/index
-              logo: 
-              description: 
-            - title: 通义千问 | 需登录 | 荐
-              url: https://tongyi.aliyun.com/qianwen/
-              logo: 
-              description: 
-            - title: 知乎直达 | 需登录 | 荐
-              url: https://zhida.zhihu.com/
-              logo: 
-              description: 
-            - title: 天工AI | 需登录 | 荐
-              url: https://www.tiangong.cn/
-              logo: 
-              description: 
-            - title: 字节智能体 | 需登录 | 荐
-              url: https://www.doubao.com/chat/
-              logo: 
-              description: 
-            - title: 文心一言 | 需登录 | 荐
-              url: https://yiyan.baidu.com/
-              logo: 
-              description: 
-            - title: 百度AI | 需登录 | 荐
-              url: https://chat.baidu.com/
-              logo: 
-              description:        
+              - title: 科大讯飞 | 需登录 | 荐
+                url: https://xinghuo.xfyun.cn/
+                logo: 
+                description: 
+              - title: 讯飞代码AI | 需登录 | 荐
+                url: https://iflycode.xfyun.cn/index
+                logo: 
+                description: 
+              - title: 通义千问 | 需登录 | 荐
+                url: https://tongyi.aliyun.com/qianwen/
+                logo: 
+                description: 
+              - title: 知乎直达 | 需登录 | 荐
+                url: https://zhida.zhihu.com/
+                logo: 
+                description: 
+              - title: 天工AI | 需登录 | 荐
+                url: https://www.tiangong.cn/
+                logo: 
+                description: 
+              - title: 字节智能体 | 需登录 | 荐
+                url: https://www.doubao.com/chat/
+                logo: 
+                description: 
+              - title: 文心一言 | 需登录 | 荐
+                url: https://yiyan.baidu.com/
+                logo: 
+                description: 
+              - title: 百度AI | 需登录 | 荐
+                url: https://chat.baidu.com/
+                logo: 
+                description:        
 
                 
 - taxonomy: 文档编辑
