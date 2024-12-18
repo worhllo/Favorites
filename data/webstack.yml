@@ -12,9 +12,124 @@
                 url: https://free.xyhelper.cn/list
                 logo: https://api.uomg.com/api/get.favicon?url=https://free.xyhelper.cn/list
                 description: chatgpt
+              - title: 每日 5 次 | 免登录
+                url: https://chat.doltrans.com/
+                logo: 
+                description: 
+              - title: 镜像 | 无限制 | 免登录
+                url: https://nav.aifree.site
+                logo: 
+                description: 
+              - title: 镜像 | 无限制 | 免登录
+                url: https://ai.minihuo.com/#/chat/1002
+                logo: 
+                description: 
+              - title: 镜像 | 无限制 | 免登录
+                url: https://uuu.mygpt.bid/
+                logo: 
+                description: 
+              - title: 镜像 | 长度限制 | 免登录
+                url: https://chat.tinycms.xyz:3002/
+                logo: 
+                description: 
+              - title: 镜像 | 30 次/天 | 需登录
+                url: https://ai.qdymys.cn/#/chat
+                logo: 
+                description: 
+              - title: 镜像 | 无限稍慢 | 免登录
+                url: https://chat14.aiyunos.top
+                logo: 
+                description: 
+              - title: 镜像 | 6 次/小时 | 免登录
+                url: https://chat.ttext.cn/
+                logo: 
+                description: 
+              - title: 镜像 | 无限制慢 | 免登录
+                url: https://chat.ai365vip.com/
+                logo: 
+                description: 
+              - title: 镜像 | 无限制慢 | 免登录
+                url: https://chat01.a1r.cc/#/chat/1002
+                logo: 
+                description: 
+              - title: 镜像 | 无限制 | 免登录
+                url: https://chat-1.myai.asia/
+                logo: 
+                description: 
+              - title: 镜像 | 120 次/天 | 免登录
+                url: https://claude3.free2gpt.xyz/
+                logo: 
+                description: 
+              - title: 镜像 | 无限制 | 免登录
+                url: https://origin.eqing.tech/
+                logo: 
+                description: 
+              - title: 镜像 | 无限制 | 免登录
+                url: https://www.yeschat.ai/zh-CN/gpt-4o
+                logo: 
+                description: 
+              - title: 镜像 | 无限制 | 需登录
+                url: https://ai.baikeai.top/web/#/
+                logo: 
+                description: 
+              - title: 镜像 | 无限制 | 免登录
+                url: https://chatnio.liujiarong.top/
+                logo: 
+                description: 
+              - title: 镜像 | 无限制 | 免登录
+                url: https://tudouai.chat/chat
+                logo: 
+                description: 
+              - title: 镜像 | 无限制 | 需登录
+                url: https://fast.imchatgpt.cn/web/
+                logo: 
+                description: 
+              - title: 镜像 | 无限制 | 免登录
+                url: https://free01.xyz/
+                logo: 
+                description: 
+              - title: 免费共享车队
+                url: https://home.gpt2share.com/
+                logo: 
+                description: 
+              - title: 免费共享车队
+                url: https://free.xyhelper.cn/list
+                logo: 
+                description: 
     - term: 国内大模型
       links: 
-                
+            - title: 科大讯飞 | 需登录 | 荐
+              url: https://xinghuo.xfyun.cn/
+              logo: 
+              description: 
+            - title: 讯飞代码AI | 需登录 | 荐
+              url: https://iflycode.xfyun.cn/index
+              logo: 
+              description: 
+            - title: 通义千问 | 需登录 | 荐
+              url: https://tongyi.aliyun.com/qianwen/
+              logo: 
+              description: 
+            - title: 知乎直达 | 需登录 | 荐
+              url: https://zhida.zhihu.com/
+              logo: 
+              description: 
+            - title: 天工AI | 需登录 | 荐
+              url: https://www.tiangong.cn/
+              logo: 
+              description: 
+            - title: 字节智能体 | 需登录 | 荐
+              url: https://www.doubao.com/chat/
+              logo: 
+              description: 
+            - title: 文心一言 | 需登录 | 荐
+              url: https://yiyan.baidu.com/
+              logo: 
+              description: 
+            - title: 百度AI | 需登录 | 荐
+              url: https://chat.baidu.com/
+              logo: 
+              description:        
 
                 
 - taxonomy: 文档编辑
